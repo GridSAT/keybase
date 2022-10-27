@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am alephc1 on github.
+  * I am gridsat (https://keybase.io/gridsat) on keybase.
+  * I have a public key ASDv3VGMZWr1Qx1i-F8WywrkjWziaVjVTgnCPLafHthnTAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120efdd518c656af5431d62f85f16cb0ae48d6ce26958d54e09c23cb69f1ed8674c0a",
+      "host": "keybase.io",
+      "kid": "0120efdd518c656af5431d62f85f16cb0ae48d6ce26958d54e09c23cb69f1ed8674c0a",
+      "uid": "78eba7cd905056b98ada38ec1f70d119",
+      "username": "gridsat"
+    },
+    "merkle_root": {
+      "ctime": 1666854622,
+      "hash": "aabbc1738700f5b182e1143d52a1449a35d1c002b7c1cc29400fa11336def1476c631bd58e0cb7253bce3f66294b24d59f7003b968016add94c10502ae2a3954",
+      "hash_meta": "7dc59b45101a16d2e8c4b93f9986d2e4b9a1901b01eef94786599f5a3221dbd0",
+      "seqno": 23440809
+    },
+    "service": {
+      "entropy": "Iv1+cbjbpBfDJqzKQ1SuMsGo",
+      "name": "github",
+      "username": "alephc1"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1666854663,
+  "expire_in": 504576000,
+  "prev": "48bc423722aaa6138bc2c0e324863d905cdaa11c7afbb0180dceea9a6ba701a9",
+  "seqno": 12,
+  "tag": "signature"
+}
+```
+
+with the key [ASDv3VGMZWr1Qx1i-F8WywrkjWziaVjVTgnCPLafHthnTAo](https://keybase.io/gridsat), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg791RjGVq9UMdYvhfFssK5I1s4mlY1U4Jwjy2nx7YZ0wKp3BheWxvYWTESpcCDMQgSLxCNyKqphOLwsDjJIY9kFzaoRx6+7AYDc7qmmunAanEIPr0hP6R0Nv8FKjrrrY2PvJWJSSwEymJC8XRm8RZAn9bAgHCo3NpZ8RA5mXDzXX/ilsj3OWFJGIb8OVbvrMbMUFvTLyZseRA9ECj8R2Joo4d+3HcFa/MRRMMTANF6YCEdaDyaAzhlq4kDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICpfA/fswdg6akrSz61Pv4tIVpmIGwoYn/Zs/A0hPim9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/gridsat
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id gridsat
+```
